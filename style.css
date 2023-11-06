@@ -4,7 +4,7 @@ body {
   background-color: #FFFFFF;
   padding: 47px 110px 42px 140.92px;
 }
-<<<<<<< Updated upstream
+
 .header {
   display: flex;
   justify-content: space-evenly;
@@ -44,7 +44,8 @@ body {
 .div1{
   display: flex;
 }
-=======
+
+
 .placeholder {
   display: flex;
   align-items: center;
@@ -74,4 +75,3 @@ input[type="text"] {
   border-top: 15px solid #fff;
 }
 
->>>>>>> Stashed changes
