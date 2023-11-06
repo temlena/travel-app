@@ -4,6 +4,7 @@ body {
   background-color: #FFFFFF;
   padding: 47px 110px 42px 140.92px;
 }
+<<<<<<< Updated upstream
 .header {
   display: flex;
   justify-content: space-evenly;
@@ -43,3 +44,34 @@ body {
 .div1{
   display: flex;
 }
+=======
+.placeholder {
+  display: flex;
+  align-items: center;
+}
+
+input[type="text"] {
+  flex: 1;
+  margin-right: 10px; /* Adjust the spacing between the input and button */
+}
+
+.play-button {
+  width: 52px;
+  height: 52px;
+  background-color: #3498db;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.play-icon {
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-top: 15px solid #fff;
+}
+
+>>>>>>> Stashed changes
