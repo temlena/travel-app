@@ -3,11 +3,7 @@ body {
   padding: 0;
   box-sizing: border-box;
   background-color: #FFFFFF;
-  width: 6440px fixed;
-height: 100%;
-top: -385px;
-left: 1035px;
-padding: 47px, 110px, 42px, 140.92px;
+ 
    
 }
 
@@ -114,15 +110,12 @@ padding: 47px, 110px, 42px, 140.92px;
   }
 
 
-.lady {
-   
+  .lady {
     width: 165px;
-    height: -564px;
-    positionrelative;
-    top: -810px;
-    left: 385px;
-   
-  
+    height: 564px;
+    position: absolute;
+    top: -150px; 
+    right: 20px; 
 }
 
 .sections {
@@ -133,8 +126,8 @@ padding: 47px, 110px, 42px, 140.92px;
   border-radius: 10px;
   display: flex;
   justify-content: space-between;
-  align-items: end;
-  position: absolute;
+ 
+
  
 }
 .find {
@@ -164,4 +157,9 @@ padding-left: 20px;
 padding-top: 9%;
 }
 
+.find {
+  
+}
+
+}
 
